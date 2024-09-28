@@ -1,5 +1,5 @@
 ### Bem-vindo ao meu github
-🌱 Estudando Python, SQL, Java e outra noções para me tornar um engenheiro de dados<br>👯 Estou em busca de conhecimento em banco de dados<br>📫 Contato: guifpdaz@gmail.com
+🌱 Estudando Python, SQL,NOSQL,Apache Airflow, Apache Spark, Aws e outra noções para me tornar um engenheiro de dados<br>👯 Estou em busca de conhecimento em banco de dados<br>📫 Contato: guifpdaz@gmail.com
 
 
 # 💻 Tech Stack:
